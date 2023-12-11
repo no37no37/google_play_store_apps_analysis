@@ -4,7 +4,7 @@
 This data analysis project focuses on exploring and understanding the Google Play Store Apps dataset. The dataset is loaded into a Pandas DataFrame using Python, and various data analysis tasks are performed to gain insights into the characteristics of the apps available on the Google Play Store.
 
 **Dataset Overview:**
-The dataset consists of 10,841 entries and 13 columns, each representing different attributes of the apps. These attributes include the app name, category, rating, number of reviews, size, number of installs, type (free or paid), price, content rating, genres, last updated information, current version, and Android version compatibility.
+The dataset consists of 10,841 entries and 13 columns, each representing different attributes of the apps. These attributes include the app name, category, rating, number of reviews, size, number of installs, type (free or paid), price, content rating, genres, last updated information, current version, and Android version compatibility
 
 **Basic Data Exploration:**
 The initial steps involve displaying the top 5 and last 3 rows of the dataset to get a glimpse of the data. Additionally, the shape of the dataset is explored, revealing that it contains 10,841 rows and 13 columns.
